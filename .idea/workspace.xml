@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dff4f19-c750-4a11-8c97-989cd7515e47" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2L5wljDzKPkr3Tx7fN9AhK640vD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/academiccity/darkside/command" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.18202765" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.academiccity.darkside.command.core" />
+      <recent name="com.academiccity.darkside.command.infrustructure.repository" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF/fan-shell" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.academiccity.darkside.command.core" />
+      <recent name="com.academiccity.darkside.command.infrustructure.repository" />
+      <recent name="com.academiccity.darkside.command.component" />
+      <recent name="com.academiccity.darkside.shell.adapter.command" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn -N io.takari:maven:wrapper" />
+      <command value="mvn dependency:tree" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FanJavaShellApplication">
+    <configuration name="DefaultCommandFileReaderTest.afterProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fan-java-shell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academiccity.darkside.command.infrustructure.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.academiccity.darkside.command.infrustructure.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.academiccity.darkside.command.infrustructure.repository.DefaultCommandFileReaderTest" />
+      <option name="METHOD_NAME" value="afterProperties" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultShellExecutorTest.invoke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fan-java-shell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academiccity.darkside.command.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.academiccity.darkside.command.core" />
+      <option name="MAIN_CLASS_NAME" value="com.academiccity.darkside.command.core.DefaultShellExecutorTest" />
+      <option name="METHOD_NAME" value="invoke" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShellCommandTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fan-java-shell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academiccity.darkside.command.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.academiccity.darkside.command.core" />
+      <option name="MAIN_CLASS_NAME" value="com.academiccity.darkside.command.core.ShellCommandTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnixShellTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fan-java-shell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academiccity.darkside.command.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.academiccity.darkside.command.core" />
+      <option name="MAIN_CLASS_NAME" value="com.academiccity.darkside.command.core.UnixShellTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FanJavaShellApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="fan-java-shell" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academiccity.darkside.command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.academiccity.darkside.command.FanJavaShellApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ShellCommandTest.name" />
+      <item itemvalue="JUnit.DefaultShellExecutorTest.invoke" />
+      <item itemvalue="JUnit.DefaultCommandFileReaderTest.afterProperties" />
+      <item itemvalue="JUnit.UnixShellTest.name" />
+      <item itemvalue="Spring Boot.FanJavaShellApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FanJavaShellApplication" />
+        <item itemvalue="JUnit.UnixShellTest.name" />
+        <item itemvalue="JUnit.DefaultCommandFileReaderTest.afterProperties" />
+        <item itemvalue="JUnit.DefaultShellExecutorTest.invoke" />
+        <item itemvalue="JUnit.ShellCommandTest.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dff4f19-c750-4a11-8c97-989cd7515e47" name="Changes" comment="" />
+      <created>1675174404604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675174404604</updated>
+      <workItem from="1675174407209" duration="10000" />
+      <workItem from="1675174499190" duration="1859000" />
+      <workItem from="1675176815042" duration="43217000" />
+      <workItem from="1677435409938" duration="51418000" />
+      <workItem from="1677833094762" duration="298000" />
+    </task>
+    <task id="LOCAL-00001" summary="begin">
+      <created>1676812603144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676812603144</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <created>1676812839836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676812839836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="command-shell第一个版本实现，已完成主要基础设施及&quot;ddd create cola&quot;的运行">
+      <created>1677832268974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677832268974</updated>
+    </task>
+    <task id="LOCAL-00004" summary="command-shell第一个版本实现，已完成主要基础设施及&quot;ddd create cola&quot;的运行">
+      <created>1677833247993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677833247993</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="begin" />
+    <MESSAGE value="2" />
+    <MESSAGE value="command-shell第一个版本实现，已完成主要基础设施及&quot;ddd create cola&quot;的运行" />
+    <option name="LAST_COMMIT_MESSAGE" value="command-shell第一个版本实现，已完成主要基础设施及&quot;ddd create cola&quot;的运行" />
+  </component>
+</project>

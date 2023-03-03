@@ -1,0 +1,12 @@
+ddd:
+  create:
+    cola:
+      shell: |
+        mvn archetype:generate \
+            -DgroupId=${groupName} \
+            -DartifactId=${artifactId} \
+            -Dversion=${version} \
+            -Dpackage=${packageName} \
+            -DarchetypeArtifactId=cola-framework-archetype-web \
+            -DarchetypeGroupId=com.alibaba.cola \
+            -DarchetypeVersion=4.3.1
